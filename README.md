@@ -1,9 +1,9 @@
 # Java_Supermarket_Project
 
-![](image/1.jpg)
-![](image/2.jpg)
-![](image/3.jpg)
-![](image/4.jpg)
-![](image/5.jpg)
-![](image/6.jpg)
-![](image/7.jpg)
+![](image/1.png)
+![](image/2.png)
+![](image/3.png)
+![](image/4.png)
+![](image/5.png)
+![](image/6.png)
+![](image/7.png)
